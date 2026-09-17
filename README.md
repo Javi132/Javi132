@@ -1,1 +1,48 @@
-<img src="assets/TUX.jpg" alt="TUX" width="200">
+<div align="center">
+  <img src="assets/TUX.jpg" alt="TUX" width="200" style="border-radius: 50%;">
+  
+  # ¡Hola! Soy Javier García Conde 👋
+  
+  **Desarrollador / Ingeniero**
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/javier-garc%C3%ADa-conde-677ab73a7/)
+</div>
+
+---
+
+### 👨‍💻 Sobre mí
+
+*Nota: Por las restricciones de privacidad de LinkedIn, no pude extraer tu experiencia y educación automáticamente. Te dejo esta estructura profesional lista para que la completes:*
+
+- 🏢 **Experiencia:** [Añade aquí tu rol actual o experiencia pasada destacada que tienes en LinkedIn]
+- 🎓 **Educación:** [Añade tu formación o título más relevante]
+- 🌱 **Actualmente aprendiendo:** [Añade las tecnologías o habilidades en las que te estás enfocando]
+- 💡 **Me apasiona:** El desarrollo de software, la resolución de problemas y crear herramientas eficientes.
+- 📫 **Contacto:** Puedes encontrarme en mi [LinkedIn](https://www.linkedin.com/in/javier-garc%C3%ADa-conde-677ab73a7/) para oportunidades profesionales.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<p align="left">
+  <!-- Aquí puedes modificar los lenguajes según tu perfil de LinkedIn. Estos son de ejemplo: -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,java,js,html,css,react,git,docker,linux" />
+  </a>
+</p>
+
+---
+
+### 📈 Estadísticas de GitHub
+
+<div align="center">
+  <!-- IMPORTANTE: Cambia 'TU_USUARIO_AQUI' por tu nombre de usuario de GitHub -->
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5&icon_color=0077B5&text_color=ffffff" alt="Estadísticas de Javier" />
+</div>
+
+<br>
+
+---
+<div align="center">
+  <i>Perfil estructurado como currículum introductorio. ¡Visita mis repositorios para ver mi trabajo en acción!</i>
+</div>
